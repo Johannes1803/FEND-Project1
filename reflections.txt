@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I gained more confidence browsing the MDN documentation about HTML.
+
+It was rather easy to apply the html tags I had learned earlier during the lesson.
+
+It was sometimes difficult to find the new tags, for example the <sup> needed for the footnote. The most difficult part was to use <a href ....> in the new context of linking to an id within the html document. 
+
+To break the probelm down into smaller pieces and solve them step by step. 
